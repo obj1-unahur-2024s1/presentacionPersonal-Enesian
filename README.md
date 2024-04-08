@@ -1,35 +1,13 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# ProgramaciÛn con objetos I
+MARCELO FABI√ÅN L√ìPEZ
 
-En esta materia aprender·n sobre la famosa POO _(OOP en inglÈs)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Hola. Tengo 33 a√±os y este el segundo estudiando en Unahur. 
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Hace 2 a√±os decid√≠ meterme en unos cursos de programaci√≥n (Java y Phyton) que brindaba esta universidad. El programar es algo que quise hacer desde chico pero nunca me di lugar a poder realizarlo. Estud√≠e un tiempo en la UBA cursando la carrera de Ciencias de la Computaci√≥n. Sobreviv√≠ el primer a√±o, que me llev√≥ al menos 2, y al llegar al segundo me recibieron con mucha m√°s matem√°ticas que el primero. Que fue lo que me termin√≥ sacando. Me quedaba muy lejos, eran muchas horas de cursada y no me gusta tanto la verdad. No le pon√≠a las ganas que necesitaba. Pero el √∫nico taller de programaci√≥n que tuve lo aprob√© con 10. No era muy complejo y tambi√©n ten√≠a mucha matem√°tica, pero a√∫n as√≠ se acercaba m√°s a lo que yo quer√≠a ver.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisiÛn 1 **turno noche**: Martes 18 a 22hs y S·bado 10 a 12hs.
-* Horario comisiÛn 2 **turno maÒana**: MiÈrcoles 8 a 12hs y S·bado 10 a 12hs. 
-* Este cuatrimestre los profesores somos Gerardo Gonz·lez Tulian, Lucas Spigariol, Cristian Ciarallo y Hern·n Coniglio
-* Adem·s nos acompaÒan como colaboradores Valentino Chiappanni, Manuel NuÒez y Lucian Coniglio.
+Por eso y algunas cosas m√°s me d√≠ otra oportunidad con esos talleres. Y enseguida me anot√© en la carrera. Pude meter 7 materias, creo que con buenas notas, en el primer a√±o mientras trabajo de algo que no me gusta. Y bueno, este es un a√±o en el que me veo m√°s cerca de lo que quiero ser en un futuro, aunque ya est√© en el futuro hace rato.
 
-## Links importantes :monocle_face:
-- [x] [P·gina principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/13rFU2mObqdFF_2Ocimey_oHJ0Ldv-Gx0S1N4cfHKO4Q/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
+Espero poder dar lo mejor de m√≠ y sacarles a ustedes y a la universidad el mayor provecho posible.
 
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [GuÌa R‡pida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglÈs)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Saludos y muchas gracias.
